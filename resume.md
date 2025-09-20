@@ -18,4 +18,4 @@ Here’s a structured version of my professional journey.
 ## Skills
 - Legal: Research, drafting, case analysis  
 - Languages: English (fluent), German (beginner)  
-- Soft Skills: Teamwork, adaptability, problem-solving, communication  
+- Soft Skills: Teamwork, adaptability, problem-solving, communication.
